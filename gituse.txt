@@ -64,7 +64,7 @@
     git rev-list
     git prune
 乱七八糟
-你不对劲
-得寸进尺
-七上八下
-awefjiwl
+你对jlj劲
+得寸进''尺
+七上下
+awefj
