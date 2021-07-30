@@ -64,3 +64,4 @@
     git rev-list
     git prune
 乱七八糟
+你不对劲
